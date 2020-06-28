@@ -1,0 +1,12 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+  }
+  
+.dark {
+    background: black;
+}
+
+h3.white {
+    color: white;
+}
